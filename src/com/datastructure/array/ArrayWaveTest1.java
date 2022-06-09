@@ -1,3 +1,5 @@
+package com.datastructure.array;
+
 public class ArrayWaveTest1 {
     public static void main(String[] args) {
         //int arr[] = {1,2,3,4,5};

@@ -1,3 +1,4 @@
+package com.datastructure.utility;
 public class Utility {
 
     public static void printArray(int[] arr){

@@ -1,4 +1,4 @@
-
+package com.datastructure.array;
 
 public class ArrayKadane {
     public static void main(String[] args) {

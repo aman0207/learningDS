@@ -1,3 +1,5 @@
+package com.datastructure.array;
+
 import java.util.stream.IntStream;
 
 public class ArrayMissingNum {
